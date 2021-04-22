@@ -1,0 +1,167 @@
+body{
+    width: 100%;
+    height: 100vh;
+    margin-top: 0;
+    margin-left: 0;
+  }
+  .top, .bottom{
+    width: 100%;
+  }
+  
+  .top{
+    height:450px;
+    background: rgb(131,58,180);
+    background: linear-gradient(27deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+  }
+  
+  .bottom{
+    background-color: #ffe6e6;
+    height:100%;
+  }
+  table{
+    width: 100%;
+    height: 450px;
+  }
+  
+  td{
+    width: 100vh;
+    align-content: center;
+  }
+  
+  
+  #img1{
+    width:60%;
+    height:auto;
+    border-radius: 50%;
+    border: 10px solid #ffe6e6;
+    padding: 10px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  #h1{
+    font-family: 'Sofia';
+    font-size: 100px;
+    color:#ffe6e6;
+    text-align: center;
+    padding:30px;
+  }
+  
+  #h2{
+    font-family: 'Sofia';
+    font-size: 60px;
+    color: #ffe6e6;
+    text-align: center;
+    padding:10px;
+  }
+  
+  h3{
+    font-family: 'Montserrat';
+    font-style: oblique ;
+    text-align: center;
+    color: #ffe6e6 ;
+    font-size: 23px;
+  }
+  .space{
+    line-height: 7px;
+  }
+  
+  .job{
+    font-family: 'Montserrat';
+    text-align: center;
+    color: #ff9999 ;
+    font-size: 25px;
+  }
+  
+  .date{
+    text-align: center;
+    color: #ffe6e6 ;
+    font-size: 20px;
+  }
+  ul{
+    list-style-type: none;
+    margin:0;
+    padding:0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  li{
+    margin: 10px;
+    padding: 4px;
+  }
+  
+  #img2{
+    width: 40px;
+  }
+
+  #img3{
+    width: 100px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+
+  
+  #table{
+    height:auto;
+  }
+
+  #td1{
+    width: 30%;
+    padding: 30px;
+    border-right: ridge 1px;
+  }
+
+  #td2{
+    width:70%;
+    text-align: left;
+    padding: 30px;
+  }
+
+  #h3{
+    color:black;
+    font-size:30px;
+    padding:20px;
+  }
+
+  #td3{
+    padding:30px;
+  }
+
+  #p{
+    font-family: 'Volkhov';
+    font-size: 30px;
+  }
+  
+  #td8{
+    width:70%;
+    text-align: left;
+    padding: 30px;
+  }
+  
+  #list{
+    text-align: left;
+    font-size: 20px;
+    font-family: 'Volkhov';
+  }
+   .ull{
+    list-style-type: circle;
+   }
+
+   #img89{
+     width:20px;
+   }
+
+   #an{
+     font-family: 'Volkhov';
+     font-size:20px;
+   }
+
+  #list2{
+    font-family: 'Volkhov';
+    text-align: left;
+    font-size: 30px;
+  }
